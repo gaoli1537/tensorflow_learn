@@ -27,3 +27,4 @@ print(session.run(x_3_3_4))
 print(session.run(x_2_2_1))
 print(session.run(x_9_9_1))
 
+print(12)
