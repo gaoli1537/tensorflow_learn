@@ -7,9 +7,6 @@ x=tf.constant(
 
 r=tf.transpose(x,perm=[1,0])
 
-
-
-
 x_3_3_4=tf.constant(
     [
         [[1,2,3,4],[5,6,7,8],[9,10,11,12]],
@@ -28,3 +25,5 @@ print(session.run(x_2_2_1))
 print(session.run(x_9_9_1))
 
 print(12)
+
+print(22)
