@@ -27,3 +27,5 @@ print(session.run(x_9_9_1))
 print(12)
 
 print(22)
+
+print(32)
