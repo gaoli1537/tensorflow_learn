@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "yapf",
+    "python.unitTest.pyTestArgs": [
+        "python"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.pythonPath": "C:\\Users\\681\\AppData\\Local\\Continuum\\anaconda3\\envs\\ten\\python.exe",
+    "python.unitTest.promptToConfigure": false
+}
